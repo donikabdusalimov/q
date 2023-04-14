@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+b {
+    color: red;
+}
+
+.engine {
+    width: 200px;
+    height: 50px;
+    background-color: rgb(80, 82, 82);
+}
+
+.fill {
+    width: 0%;
+    height: 100%;
+    background-color: red;
+}
+
+.prosent {
+    color: rgb(0, 42, 255);
+}
+
+.sale {
+    color: rgb(255, 0, 170);
+}
